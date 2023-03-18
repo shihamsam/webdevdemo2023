@@ -1,0 +1,26 @@
+/* internal styling */
+/* tag targetting */
+body {
+  font-family: verdana;
+  color: #0089ba;
+}
+
+h2 {
+  color: #2c73d2;
+}
+h3 {
+  color: #0081cf;
+}
+
+/* class targetting */
+.main-h {
+  color: #845ec2;
+  font-family: "Lucida Sans";
+}
+
+#frontend {
+  color: #0089ba;
+}
+#backend {
+  color: #0089ba;
+}
